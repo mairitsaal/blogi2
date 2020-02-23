@@ -9,6 +9,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="ikt_basic">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html" local="$PROJECT_DIR$" web="/public_html" />
+          </mappings>
+        </serverdata>
+      </paths>
     </serverData>
   </component>
 </project>
